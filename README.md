@@ -82,3 +82,13 @@ dependencies {
 Приложить скриншот полученного экрана
 
 💡 **Совет:** Делайте UI аккуратным, следите за отступами и используйте адаптивные размеры
+
+![image](https://github.com/user-attachments/assets/34b900fe-ba0c-48e8-9cef-b6018fa9da69)
+![image](https://github.com/user-attachments/assets/02fb7b41-d10c-4ea0-b1b5-d4b033dd2aff)
+![image](https://github.com/user-attachments/assets/78070a97-f9c5-45cc-a46a-8fe64e09083b)
+![image](https://github.com/user-attachments/assets/032c3b6e-cab2-462a-b4a1-2f28f41b4809)
+![image](https://github.com/user-attachments/assets/046e1c60-98f6-406b-8ec1-a63a3f09ada2)
+![image](https://github.com/user-attachments/assets/83cead9f-5628-42a9-aff1-92098d96f088)
+![image](https://github.com/user-attachments/assets/cfbe9f11-b33c-45ad-87ac-ae1b8a63f015)
+
+
