@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="nickname">lilpipipdron</string>
+    <string name="user_name">kramskoi</string>
+    <string name="post_text">Post text</string>
+    <string name="post_likes">Likes: 0</string>
+    <string name="post_comments">Comments: 0</string>
+    <string name="send_message">Send message</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="posts_amount">Posts: 10</string>
+    <string name="subscriptions_amount">Subscriptions: 50</string>
+    <string name="subscribers_amount">Subscribers: 100</string>
+    <string name="likes_format">Likes: %d</string>
+    <string name="comments_format">Comments: %d</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+</resources>
